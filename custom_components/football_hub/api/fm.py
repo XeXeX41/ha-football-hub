@@ -55,6 +55,7 @@ FM_LEAGUES = {
     94: 61,    # Primeira Liga
     144: 40,   # Belgian Pro League
     203: 71,   # Turkish Super Lig
+    250: 46,   # Danish Superliga
     1001: 42,    # UEFA Champions League
     1002: 73,    # UEFA Europa League
     1003: 10216, # UEFA Conference League
@@ -86,6 +87,7 @@ FM_LEAGUES = {
     2202: 266,   # Belgian Super Cup
     2301: 151,   # Turkish Cup
     2302: 166,   # Turkish Super Cup
+    2401: 242,   # DBU Pokalen
     1902: 207,   # Trophee des Champions (correct FotMob ID)
     2101: 186,   # Taca de Portugal (correct FotMob ID)
 }
